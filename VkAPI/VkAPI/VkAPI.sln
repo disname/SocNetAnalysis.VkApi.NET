@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocNet.Domain", "SocNet.Domain\SocNet.Domain.csproj", "{34983758-3547-4666-BCE5-FEC3458433BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkAPI.UI", "..\VkAPI.UI\VkAPI.UI.csproj", "{EBCF952A-468D-4F00-9736-3E2443A71649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34983758-3547-4666-BCE5-FEC3458433BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34983758-3547-4666-BCE5-FEC3458433BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34983758-3547-4666-BCE5-FEC3458433BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34983758-3547-4666-BCE5-FEC3458433BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCF952A-468D-4F00-9736-3E2443A71649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCF952A-468D-4F00-9736-3E2443A71649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCF952A-468D-4F00-9736-3E2443A71649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCF952A-468D-4F00-9736-3E2443A71649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
